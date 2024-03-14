@@ -12,5 +12,3 @@ How to use:
 8. npm install to get dependencies
 9. run npm start, this will boot up the front end on localhost:3001 in a browser. The site should have data listed from the database if server has already been booted.
 10. Ctrl C in terminal to stop running
-
-I am sorry that I am making you actually install the stuff I used, but I can not figure out how to make a virtual enviornment for nodejs and I am running out of time on this submission. Thank you
